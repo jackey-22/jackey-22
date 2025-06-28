@@ -63,7 +63,7 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jackey-22&count_private=true&show_icons=true&theme=react" />
   <img width="48%" src="https://streak-stats.demolab.com/?user=jackey-22&theme=react" />
   <img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=jackey-22&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackey-22&theme=react&layout=compact" />
+<!--   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackey-22&theme=react&layout=compact" /> -->
 </p>
 
 ---
