@@ -21,7 +21,7 @@
 
 - 🎓 IT Student at **VGEC, Ahmedabad**
 - 👨‍💻 Full Stack & AI Enthusiast
-- 🛠 Currently working on: `AI Projects`, `Smart Automation`, `React Native Apps`
+- 🛠 Currently working on: `AI Projects`, `Smart Automation`
 - ⚙️ Always curious, always building
 
 ---
@@ -53,17 +53,6 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white"/>
 
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jackey-22&count_private=true&show_icons=true&theme=react" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=jackey-22&theme=react" />
-  <img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=jackey-22&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
-<!--   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackey-22&theme=react&layout=compact" /> -->
 </p>
 
 ---
