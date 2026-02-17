@@ -57,15 +57,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-<div>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jackey-22&theme=tokyonight&column=8&no-frame=true" />
-</p>
-</div>
-
----
-
 ## 💡 Fun Facts About Me
 
 - ✨ I love turning caffeine into functional UIs
